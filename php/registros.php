@@ -12,7 +12,7 @@
       color: white;
     }
   </style>
-  <h2><a href= "index.html" class="boton">VOLVER A LA PAGINA PRINCIPAL</a></h2>
+  <h2><a href= "../index.html" class="boton">VOLVER A LA PAGINA PRINCIPAL</a></h2>
 
 <body>
 <h1>Usuarios Registrados</h1>
