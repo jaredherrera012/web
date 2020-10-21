@@ -1,0 +1,37 @@
+tml, body{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background: url("https://img.discogs.com/6ruEIcJ_ytvX5Xx4bYK3DH2k8gk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9388037-1480104909-6820.jpeg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  font-family: 'Rubik', sans-serif;
+}
+.caja_titulo{
+  height: 80px;
+  padding-top: 30px;
+  width: 100%;
+  background-color: #1e7d31;
+  color: #c1c1c3;
+  text-align: center;
+  margin-top: -30px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+button{
+  background-color: #094e17;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  width: 30vw;
+  height: 30px;
+  color: #fff;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+
+button:hover{
+  background-color: #e1e1e1;
+  color: #000;

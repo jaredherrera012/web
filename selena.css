@@ -1,0 +1,53 @@
+html,body{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background: url("https://belatina.com/wp-content/uploads/2019/10/Selena-Self-titled-30-years.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  font-family: 'Rubik', sans-serif;
+}
+.caja_titulo{
+  height: 80px;
+  padding-top: 30px;
+  width: 100%;
+  background-color: #1e7d31;
+  color: #c1c1c3;
+  text-align: center;
+  margin-top: -30px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+button{
+  background-color: #094e17;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  width: 30vw;
+  height: 30px;
+  color: #fff;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+
+button:hover{
+  background-color: #e1e1e1;
+  color: #000;
+  
+}
+
+.contenido_central{
+height:400vh;
+display:flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.central{
+  font-size: 25px;
+  color: #61190e;
+  text-decoration: underline;
+  font-style: bold;
+}
